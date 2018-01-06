@@ -1,4 +1,4 @@
-Reproduced example at https://docs.google.com/document/d/14dokhWSDoqTM-G8APWM3e3bpaA6_M8FNBtIKdfbdNwU/edit?usp=sharing
+Reproduced example at http://docs.nativebase.io/docs/examples/navigation/StackNavigationExample.html
 
 Install needed libraries:
 ```
